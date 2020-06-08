@@ -1,0 +1,6 @@
+BIND_ADDR = "127.0.0.1"
+BIND_PORT = 7355
+
+REQ_CHUNKSIZE = 1024
+
+LOBBY_NAME = "Offical Game Lobby"
